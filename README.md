@@ -3,8 +3,8 @@
 
 
 
-<img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalend-15&layout=compact&theme=dracula&hide=css,tcl,html,makefile,javascript,D"></img>
-<img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=Jalend-15&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"></img>
+<img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalend15&layout=compact&theme=dracula&hide=css,tcl,html,makefile,javascript,D"></img>
+<img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=Jalend15&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"></img>
 
 <br><br><br><br>
 > Credits to [@anuragharza](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
